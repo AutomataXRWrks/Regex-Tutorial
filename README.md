@@ -69,4 +69,4 @@ No look-ahead or look-behind assertions are used in this pattern.
 
 ## Author
 
-This tutorial was written by Andres Cedillo. For more tutorials and code examples, visit Your GitHub Profile.
+This tutorial was written by Andres Cedillo. For more tutorials and code examples, visit https://github.com/AutomataXRWrksAutomataXRWrks
